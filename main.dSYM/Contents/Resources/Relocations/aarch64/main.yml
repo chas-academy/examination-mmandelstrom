@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/marcusmandelstrom/workspace/github/mmandelstrom/c_preparand/examination-mmandelstrom/main'
+relocations:     []
+...
